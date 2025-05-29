@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+S.D. Surendar
+
+212224110052
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,7 +26,27 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Input:
+Enter the values of X separated by space  
+
+25 28 35 32 31 36 29 38 34 32
+
+ Enter the values of Y separated by space  
+ 
+43 46 49 41 36 32 31 30 33 39
+
+# Output 
+ [25 28 35 32 31 36 29 38 34 32]
+ 
+ [43 46 49 41 36 32 31 30 33 39]
+ 
+ 10
+ 
+ The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
+ 
+![image](https://github.com/user-attachments/assets/7e8a41b6-7449-45b2-8f3e-c2dae348be10)
+
 
 # Result
 
-# Output 
+Thus the program is implemented and Executed Successfully
